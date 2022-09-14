@@ -1,7 +1,7 @@
 
 # Flight Fare Prediction With Deployment
 
-This project predicts flight fare based on the Random Forest Regressor algorithm. The delployment was done using Flask app and project was depoyed on Heroku.
+This project predicts flight fare based on the Random Forest Regressor algorithm. The deployment was done using Flask app and project was deployed on Heroku.
 
 Steps performed in the project:
 
